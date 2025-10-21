@@ -15,7 +15,7 @@ Ce logiciel de caisse est une application développée en Python, destinée à f
 
 ## Technologies utilisées
 
-- Python 3.x
+- Python 3.13.5
 - Bibliothèques : Tkinter, SQLite3, hashlib, datetime, re, et d'autre
 
 ## Licence
