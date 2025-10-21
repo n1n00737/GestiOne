@@ -2,6 +2,9 @@
 
 ## Description
 
+**UNIQUEMENT DISPONIBLE EN FRANCAIS POUR LE MOMENT**
+**ONLY AVAILABLE IN FRENCH FOR NOW**
+
 Ce logiciel de caisse est une application développée en Python, destinée à faciliter la gestion des ventes dans un commerce. Il permet d'enregistrer les transactions, gérer les produits, calculer les totaux, et générer des reçus.
 
 ## Fonctionnalités
