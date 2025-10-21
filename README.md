@@ -63,7 +63,7 @@ Ce projet est sous licence Creative Commons Legal Code - voir le fichier LICENSE
     
 ## Contact
 
-Pour toute question, vous pouvez me contacter à : [contact@exoo-cloud.fr(mailto:contact@exoo-cloud.fr)]
+Pour toute question, vous pouvez me contacter à : contact@exoo-cloud.fr
 
 ---
 
